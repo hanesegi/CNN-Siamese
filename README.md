@@ -1,4 +1,13 @@
 # CNN-Siamese
+
+| Title                                | Date              | Category       | Tag                     |   |
+|--------------------------------------|-------------------|----------------|-------------------------|---|
+| Convolutional Neural Network Siamese | 25 September 2022 | Classification | Python, Pytorch, Keras, |   |
+|                                      |                   |                |                         |   |
+|                                      |                   |                |                         |   |
+
+
+
 <p align="justify">
  Siamese convolutional neural network adalah suatu arsitektur yang menggunakan
 dua buah convolutional neural network dengan bobot dan parameter yang sama
