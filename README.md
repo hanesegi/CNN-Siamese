@@ -1,10 +1,10 @@
 # CNN-Siamese
 
-| Title                                | Date              | Category       | Tag                     |   |
-|--------------------------------------|-------------------|----------------|-------------------------|---|
-| Convolutional Neural Network Siamese | 25 September 2022 | Classification | Python, Pytorch, Keras, |   |
-|                                      |                   |                |                         |   |
-|                                      |                   |                |                         |   |
+| Title                                | Date              | Category       | Tag                     |
+|--------------------------------------|-------------------|----------------|-------------------------|
+| Convolutional Neural Network Siamese | 25 September 2022 | Classification | Python, Pytorch, Keras, |
+|                                      |                   |                |                         |
+|                                      |                   |                |                         |
 
 
 
